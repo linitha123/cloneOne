@@ -1,0 +1,20 @@
+#food1{
+    border-radius: 20px;
+}
+
+.bold{
+    padding-left:6px;
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+.shimmer-cards{
+    height: 400px;
+    width: 200px;
+    background-color: #f0f0f0;
+    margin: 20px;
+}

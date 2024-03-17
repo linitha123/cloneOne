@@ -1,0 +1,35 @@
+#div{
+    display: flex;
+    width:100vw;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#image{
+    height:40px;
+    width:40px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+   
+   
+}
+ul>li{
+    padding: 10px;
+   color:black;
+    font-size:20px;
+    font-weight:bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.link{
+    text-decoration: none;
+    color:black;
+    font-size:16px;
+}
+.link:hover{
+ color:coral;
+}
+
+button{
+    align-self: center;
+}

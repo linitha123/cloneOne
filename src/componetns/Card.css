@@ -1,0 +1,27 @@
+.image{
+    border-radius: 20px;
+    height:210px;
+    width:210px;
+  
+}
+
+h4:hover{
+ color:coral;
+}
+.image:hover{
+    height:204px;
+    width:204px;
+}
+input:hover{
+    background-color: rgb(110, 110, 174);
+    color:white;
+    border-width: 0px;
+}
+.vegLabel{
+    position: absolute;
+    width:80px;
+    height:34px;
+    left:30px;
+   border-radius: 7px;
+   padding:4px;
+}
